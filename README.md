@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/allconditionguy" target="blank"><img src="https://img.shields.io/twitter/follow/allconditionguy?logo=twitter&style=for-the-badge" alt="allconditionguy" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React/React Native**
 
 - 👯 I’m looking to collaborate on **anything in Technology**
 
