@@ -1,23 +1,4 @@
- [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
-<h1 align="center">Hello World! 👋, I'm Angelo De-Souza</h1>
-<h3 align="center">A front end developer from Ghana</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-
-
-<p align="left"> <a href="https://twitter.com/allconditionguy" target="blank"><img src="https://img.shields.io/twitter/follow/allconditionguy?logo=twitter&style=for-the-badge" alt="allconditionguy" /></a> </p>
-
-- 🌱 I’m currently learning **React/React Native**
-
-- 👯 I’m looking to collaborate on **anything in Technology**
-
-- 🤝 I’m looking for help with **a reciept system**
-
-- 💬 Ask me about **Java,React Native**
-
-- 📫 How to reach me **selormangelo@gmail.com**
-
-- ⚡ Fun fact **I am very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
